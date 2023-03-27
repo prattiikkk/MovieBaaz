@@ -29,6 +29,12 @@ Provides a native React view that transitions between multiple colors in a linea
 3) npm install
 4) react-native start
 
+## Screenshots
+![alt text](https://github.com/prattiikkk/MovieBaaz/blob/master/screenshots/HomeScreen.jpg?raw=true)
+![alt text](https://github.com/prattiikkk/MovieBaaz/blob/master/screenshots/SearchScreen.jpg?raw=true)
+![alt text](https://github.com/prattiikkk/MovieBaaz/blob/master/screenshots/AfterSearch.jpg?raw=true)
+![alt text](https://github.com/prattiikkk/MovieBaaz/blob/master/screenshots/MovieDetails.jpg?raw=true)
+
 ## Credits
 react-native documatation (https://reactnative.dev/docs/environment-setup)
 
