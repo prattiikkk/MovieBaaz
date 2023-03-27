@@ -2,8 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { Text, View } from 'react-native';
 import { GET } from '../services/API';
 
-import { Data } from '../components/Popular';
-import MovieDetails from './MovieDetails';
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { movieKey } from '../constants/constants';
 import { styles } from '../style/style';

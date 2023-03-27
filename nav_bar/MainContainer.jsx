@@ -1,5 +1,4 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { NavigationContainer, TabActions } from '@react-navigation/native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import React from 'react';
 import HomeScreen from './screens/HomeScreen';

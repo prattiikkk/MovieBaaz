@@ -1,10 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { Text, View, TextInput, TouchableOpacity, FlatList, Image, } from 'react-native';
-import Icon from 'react-native-ionicons'
+import {  View, TextInput, TouchableOpacity, FlatList, Image, } from 'react-native';
 import { Card } from 'react-native-paper';
 import { fetchMovies } from '../services/Fetch';
 import { IMAGE_URL } from '../config/config';
-import { GET } from '../services/API';
 import { styles } from '../style/style';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 

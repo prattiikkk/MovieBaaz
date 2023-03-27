@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { GET } from '../services/API'
 import { IMAGE_URL } from '../config/config';
-import { FlatList, Text, View, Image, TouchableOpacity, TouchableHighlight } from 'react-native';
+import { FlatList, Text, View, Image, TouchableOpacity } from 'react-native';
 import { styles } from '../style/style';
 
 const Top = props => {

@@ -39,15 +39,15 @@ const MovieDetails = props => {
       }
     }
   }
-  // console.log(FAVOURITE_MOVIES)
-  // displayData = async () => {
-  //   try {
-  //     let mid = await AsyncStorage.getItem(movieKey)
-  //     console.log(mid)
-  //   } catch (error) {
-  //     console.log(error)
-  //   }
-  // }
+  console.log(FAVOURITE_MOVIES)
+  displayData = async () => {
+    try {
+      let mid = await AsyncStorage.getItem(movieKey)
+      console.log(mid)
+    } catch (error) {
+      console.log(error)
+    }
+  }
 
   const getGenre = () => {
     return details.genres.map((genre) => (

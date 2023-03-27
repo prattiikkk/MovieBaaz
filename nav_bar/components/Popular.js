@@ -1,6 +1,5 @@
 import React, { useEffect, useState} from 'react'
 import {View, Text, FlatList, TouchableOpacity, Image} from 'react-native'
-import Icon from 'react-native-ionicons'
 import { IMAGE_URL } from '../config/config'
 import { GET } from '../services/API'
 import { styles } from '../style/style'
