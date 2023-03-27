@@ -23,3 +23,13 @@ Used "Card" from react native paper for searched images.
 #### 5)Linear Gradient: 
 Provides a native React view that transitions between multiple colors in a linear direction. Used linear gradient in header background image to give horizontal gradient.
 
+## Installation Guide
+1) git clone https://github.com/prattiikkk/MovieBaaz.git
+2) cd MovieBaaz
+3) npm install
+4) react-native start
+
+## Credits
+react-native documatation (https://reactnative.dev/docs/environment-setup)
+
+
