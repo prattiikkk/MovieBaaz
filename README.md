@@ -13,15 +13,15 @@ tmdb api.
 
 ### Dependancies/library used.
 #### 1)React Navigation: 
-Stack Navigator provides a way for your app to transition between screens where each new screen is placed on top of a stack. Used this to switch between screens, also use in bottom navigation bar.
+Stack Navigator provides a way for your app to transition between screens where each new screen is placed on top of a stack. Used this to switch between screens, also used in the bottom navigation bar.
 #### 2)Ionicons:
-Designed icons for web, android, ios and desktop. Used ionicons in bottom navigation bar and in favorite button.
+Designed icons for web, android, ios and desktop. Used ionicons in the bottom navigation bar and in the favourite button.
 #### 3)AsyncStorage: 
 AsyncStorage is an unencrypted, asynchronous, persistent, key-value storage system that is global to the app. Used AsyncStorage to store the data of movie liked.
 #### 4)React native paper: 
 Used "Card" from react native paper for searched images.
 #### 5)Linear Gradient: 
-Provides a native React view that transitions between multiple colors in a linear direction. Used linear gradient in header background image to give horizontal gradient.
+Provides a native React view that transitions between multiple colours in a linear direction. Used linear gradient in header background image to give horizontal gradient.
 
 ## Installation Guide
 1) git clone https://github.com/prattiikkk/MovieBaaz.git
