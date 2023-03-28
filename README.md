@@ -1,8 +1,8 @@
 # MovieBaaz (A movie search react-native app using tmdb api.)
 
 ## Overview
-MovieBaaz, this is a react-native app that shows information related to Movies. It shows which movies are trending on current week, which movies are most popular and top rated movies.
-You can search any movies you want with search feature.
+MovieBaaz, this is a react-native app that shows information related to Movies. It shows which movies are trending in the current week, which movies are most popular and top rated movies..
+You can search any movie you want with the search feature.
 Along with this you can see movie overview, genre, release date, rating, duration and soon will add movie cast, related movies, etc.
 It uses tmdb api. The Movie Database (TMDB) is a popular, user editable database for movies and TV shows.
 It uses AsyncStorage to store the favourite movies, although it marks favourite movies but the implementation of showing favourite movies will be done later.
@@ -11,7 +11,7 @@ It uses AsyncStorage to store the favourite movies, although it marks favourite 
 react-native (0.71).
 tmdb api.
 
-### Dependancies/library used.
+### Dependencies/library used.
 #### 1)React Navigation: 
 Stack Navigator provides a way for your app to transition between screens where each new screen is placed on top of a stack. Used this to switch between screens, also used in the bottom navigation bar.
 #### 2)Ionicons:
